@@ -3,4 +3,5 @@ public/
 .deploy_git/
 .DS_Store
 db.json
-
+source/_posts/.obsidian/
+themes/reimu/source/images/.obsidian/
